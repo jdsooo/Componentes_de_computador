@@ -2,5 +2,5 @@ body{
  max-width: 136rem; 
  display: grid;
  grid-template-columns: 30rem 1fr;
- grid-template-rows: 8rem 9rem 15rem;  
+ grid-template-rows: 8rem 1fr 15rem;  
 }

@@ -2,3 +2,14 @@
     grid-column: 2/3;
     grid-row: 2/3;
 }
+.img{
+margin-left: 400px;
+margin-top: 30px;
+}
+
+.k{
+    column-count: 2;
+    margin-left: 100px;
+    margin-top: 40px;
+
+}
