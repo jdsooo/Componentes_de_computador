@@ -30,7 +30,7 @@ let li_jsaquique=document.querySelector(".logi")
         </div>
         <div class="footer-section contact-form">
             <h2>Contacto</h2>
-            <form action="#" method="post">
+            <form action="#" method="post"class="l">
                 <input type="email" name="email" class="text-input contact-input" placeholder="Tu correo electrónico...">
                 <textarea name="message" class="text-input contact-input" placeholder="Tu mensaje..."></textarea>
                 <button type="submit" class="btn btn-big contact-btn">
@@ -38,11 +38,14 @@ let li_jsaquique=document.querySelector(".logi")
                     Enviar
                 </button>
             </form>
+         
         </div>
+        
     </div>
-    <div class="footer-bottom">
-        &copy; Tu Empresa | Diseñado por Ti
+    <div class="texto">
+         click | Diseñado por daniel ortiz y programado por fernando orellana
     </div>
+   
 </footer>
 
     `;

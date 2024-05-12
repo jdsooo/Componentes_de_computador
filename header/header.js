@@ -2,7 +2,7 @@ let li_jsaquique=document.querySelector(".header");
  
 li_jsaquique.innerHTML=`
 <div class="contenido">
-<h1>CLICK</h1>
+<h1 id="texto">CLICK</h1>
 <nav>
     <ul>
         <li><a href="#">Inicio</a></li>

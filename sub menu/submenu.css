@@ -2,11 +2,12 @@
     grid-column: 1/2;
     grid-row: 2/4;
     font-size: 20px;
-      
+    background-color: #ECECEC;
     
     
 }
-.nav{
+.nav a{
   margin-top: 90px;
+  color: black;
     
 }

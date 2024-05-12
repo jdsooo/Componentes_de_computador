@@ -2,7 +2,7 @@ let submenu=document.querySelector(".menu");
 
 submenu.innerHTML=`
 <ul class="nav">
-    <li>cpu</li>
+    <li><a href="#">cpu</a></li>
     <br>
     <li>gpu</li>
     <br>
