@@ -2,17 +2,17 @@ let submenu=document.querySelector(".menu");
 
 submenu.innerHTML=`
 <ul class="nav">
-    <li><a href="#">cpu</a></li>
+    <li><a href="index.html">gpu</a></li>
     <br>
-    <li>gpu</li>
+    <li><a href="index1.html">cpu</a></li>
     <br>
-    <li>disco duro</li>
+    <li><a href="index2.html">disco duro</a></li>
     <br>
-    <li>unidad ssd</li>
+    <li><a href="index3.html">unidad ssd</a></li>
     <br>
-    <li>ram</li> 
+    <li><a href="index4.html">ram</a></li> 
     <br>
-    <li>tarjeta madre</li>
+    <li><a href="index5.html">tarjeta madre</a></li>
 </ul>
 `;
  

@@ -13,3 +13,23 @@
 .img{
     padding-left: 100px;
 }
+.articulo1{
+    background-color: #ECECEC;
+    grid-column: 2/3;
+    grid-row: 2/3;
+}
+.articulo2{
+    background-color: #ECECEC;
+    grid-column: 2/3;
+    grid-row: 2/3;
+}
+
+
+.k{
+    column-count: 2;
+    
+
+}
+.img{
+    padding-left: 100px;
+}
