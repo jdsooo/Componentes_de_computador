@@ -1,12 +1,14 @@
 .articulo{
-    background-color: #ECECEC;
+    background-color: #000000;
     grid-column: 2/3;
     grid-row: 2/3;
+    color: white;
 }
 
 
 .k{
     column-count: 2;
+    color: white;
     
 
 }
@@ -14,12 +16,12 @@
     padding-left: 100px;
 }
 .articulo1{
-    background-color: #ECECEC;
+    background-color: #030303;
     grid-column: 2/3;
     grid-row: 2/3;
 }
 .articulo2{
-    background-color: #ECECEC;
+    background-color: #070606;
     grid-column: 2/3;
     grid-row: 2/3;
 }
@@ -27,7 +29,7 @@
 
 .k{
     column-count: 2;
-    
+    color: white;
 
 }
 .img{

@@ -1,35 +1,27 @@
-let li_jsaquique=document.querySelector(".logi")
-    li_jsaquique.innerHTML=`
+let lijsaquique = document.querySelector(".logi");
+lijsaquique.innerHTML=`
 
     <footer class="footer">
     <div class="footer-content">
         <div class="footer-section about">
-            <h2 class="logo">Tu Empresa</h2>
-            <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut justo eu odio sagittis gravida.
-            </p>
+            <h2 class="logo">RAZER</h2>
+            <p>Es la marca líder mundial en estilo de vida para gamers.</p>
             <div class="contact">
-                <span><i class="fas fa-phone"></i> 123-456-7890</span>
-                <span><i class="fas fa-envelope"></i> info@tuempresa.com</span>
-            </div>
-            <div class="socials">
-                <a href="#"><i class="fab fa-facebook"></i></a>
-                <a href="#"><i class="fab fa-twitter"></i></a>
-                <a href="#"><i class="fab fa-instagram"></i></a>
-                <a href="#"><i class="fab fa-linkedin"></i></a>
+                <p>RazerSupport@email.com</p>
+                <p>123-456-7890</p>
             </div>
         </div>
         <div class="footer-section links">
-            <h2>Enlaces Rápidos</h2>
+            <h2>Quick Links</h2>
             <ul>
-                <li><a href="#">Inicio</a></li>
-                <li><a href="#">Acerca de</a></li>
-                <li><a href="#">Servicios</a></li>
-                <li><a href="#">Contacto</a></li>
+                <li><a href="https://www.razer.com/store-finder">Store Locator</a></li>
+                <li><a href="https://www.razer.com/lifestyle/collabs">Collaborations</a></li>
+                <li><a href="https://www.razer.com/about-razer">About us</a></li>
+                <li><a href="https://www.razer.com/contact-us">Contact</a></li>
             </ul>
         </div>
         <div class="footer-section contact-form">
-            <h2>Contacto</h2>
+            <h2>Contact</h2>
             <form action="#" method="post"class="l">
                 <input type="email" name="email" class="text-input contact-input" placeholder="Tu correo electrónico...">
                 <textarea name="message" class="text-input contact-input" placeholder="Tu mensaje..."></textarea>
@@ -43,7 +35,8 @@ let li_jsaquique=document.querySelector(".logi")
         
     </div>
     <div class="texto">
-         click | Diseñado por daniel ortiz y programado por fernando orellana
+         Razer|Diseñado por Daniel Ortiz/Programado por Fernando Orellana
+         <p>Copyright © 2024 Razer Inc. All rights reserved.</p>
     </div>
    
 </footer>

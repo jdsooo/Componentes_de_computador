@@ -8,7 +8,7 @@
 }
 
 .footer-content {
-    background-color: rgb(13, 31, 68);
+    background-color: rgb(0, 0, 0);
     height: 300px;
     display: flex;
     justify-content: space-between;
@@ -29,12 +29,6 @@
 .contact span {
     display: block;
     margin-bottom: 10px;
-}
-
-.socials a {
-    color: #ff0000;
-    font-size: 1.5em;
-    margin-right: 15px;
 }
 
 .links ul {
@@ -91,13 +85,11 @@ height: 200px;
 }
 .l{
     padding-right: 40px;
-    background-color: rgb(13, 31, 68);
+    background-color: rgb(0, 0, 0);
 }
-.linea{
-    background-color: rgb(13, 31, 68);
-}
+
 .texto{
-    background-color: #222;
+    background-color: #000000;
     text-align: center;
     padding: 10px 0;
 }

@@ -2,12 +2,25 @@
     grid-column: 1/2;
     grid-row: 2/4;
     font-size: 20px;
-    background-color: #ECECEC;
+    background-color:  #000000;
     
     
 }
 .nav a{
   margin-top: 90px;
-  color: black;
+  color: white;
     
 }
+.nav li a:hover{
+    background-color: #50bd2f;
+}
+.nav  li a {
+  color: #ffffffb2;
+  text-decoration: none;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 10px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
