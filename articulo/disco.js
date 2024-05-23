@@ -1,8 +1,8 @@
 let  jm=document.querySelector(".articulo2");
 jm.innerHTML=`
 <div class="contenedor">
-  <h1>disco duro</h1>
-  <p>
+  <h1 class="p">disco duro</h1>
+  <p class="p">
   
 Claro, aquí tienes un resumen de la CPU:
 

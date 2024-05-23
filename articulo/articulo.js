@@ -1,8 +1,8 @@
 let fkm=document.querySelector(".articulo");
  fkm.innerHTML=`
 <div class="contenedor">
-  <h1>gpu</h1>
-  <p>
+  <h1 class="p">gpu</h1>
+  <p class="p">
     El GPU, o Unidad de Procesamiento Gráfico, es un tipo de procesador especializado en realizar operaciones relacionadas con gráficos y visualización de datos. Su principal función es acelerar el procesamiento de imágenes y gráficos en dispositivos electrónicos, como computadoras, consolas de videojuegos, teléfonos móviles y otros dispositivos.
   </p>
   <div class="img">

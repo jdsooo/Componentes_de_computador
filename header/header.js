@@ -3,7 +3,7 @@ let li_jsaquique=document.querySelector(".header");
 li_jsaquique.innerHTML=`
 <div class="container">
             <div class="logo">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Razer_wordmark.svg/2560px-Razer_wordmark.svg.png" alt="Logo">
+                <img src="https://assets2.razerzone.com/images/phoenix/razer-ths-logo.svg" alt="Logo">
             </div>
             <nav>
                 <ul>

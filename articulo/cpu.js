@@ -1,8 +1,8 @@
 let  jm=document.querySelector(".articulo1");
 jm.innerHTML=`
 <div class="contenedor">
-  <h1>cpu</h1>
-  <p>
+  <h1 class="p">cpu</h1>
+  <p class="p">
   La CPU (Unidad Central de Procesamiento) es el cerebro de una computadora. Es un chip que ejecuta instrucciones de programas y realiza cálculos aritméticos y lógicos. La CPU consta de varias partes clave, como la unidad de control, que interpreta y ejecuta instrucciones, y la unidad aritmético-lógica, que realiza operaciones matemáticas y comparaciones. La velocidad de una CPU se mide en GHz (gigahercios) y afecta directamente al rendimiento general de una computadora. Las CPUs modernas a menudo tienen múltiples núcleos, lo que les permite realizar varias tareas simultáneamente. La evolución de la CPU ha sido fundamental para el avance de la tecnología informática, permitiendo computadoras más rápidas y capaces
   </p>
   <div class="img">
